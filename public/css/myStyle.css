@@ -1,0 +1,86 @@
+#sergio-tabla{
+	padding-left: 15px;
+}
+.s-datos{
+	padding-left: 50px;
+}
+#s-r-persona-titulo{
+	font: bold 35px;
+	text-align: center;
+}
+.table-wrapper {
+  overflow-x: scroll;
+  width: 900px;
+  margin: 0 auto;
+}
+
+#cabeza{
+	font: bold 30px verdana, sans-serif;
+	text-align: center;
+}
+
+#subCabeza{
+	font: bold 30px verdana, sans-serif;
+	text-align: center;
+}
+
+#sergio-datos-I{
+	
+}
+
+#s-r-persona-datos-I,#s-r-persona-datos-D{
+	font-size: 20px;
+}
+
+#s-r-persona-datos-I{
+	margin-right: 100px;
+}
+
+#s-r-persona-datos-D{
+	margin-left: 100px;
+}
+
+#parafo{
+	text-align: justify;
+}
+
+#fechaCreate{
+	padding-left: 150px;
+}
+
+#groupSF{
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#msj{
+	font: bold 25px verdana, sans-serif;
+	text-align: center;
+}
+
+#box{
+	padding-left: 30px;
+}
+
+#bloque {
+	width: 100%;
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+#caja1, #caja2 {
+	width: 45%;
+	margin-left: 105px;
+	float: left;
+	padding-bottom: 20px;
+}
+#caja1 {
+	background-color: #ffffff;
+	margin-left: 2px!important;
+	margin-left: 1px;
+}
+#caja2 {
+	background-color: #ffffff;
+}
+.salto {
+	clear: both;
+}
